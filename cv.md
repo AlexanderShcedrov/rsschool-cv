@@ -29,6 +29,7 @@ alert( result );
 ### Education  
 * ***University:*** PSU
 * ***Courses:***
+  * rsschool
   * Fitness coach/mentor
   * Massage
 ***

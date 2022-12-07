@@ -19,5 +19,6 @@ Junior Frontend Developer
 ### Education  
 * University: PSU
 * Courses:
-       * fitness coach/mentor
-       * massage therapist
+      * fitness coach/mentor
+
+

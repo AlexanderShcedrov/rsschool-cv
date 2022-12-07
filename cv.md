@@ -16,9 +16,20 @@ Junior Frontend Developer
 * JS(Basic)
 * GIT
 ***
+### Skils
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
+***
 ### Education  
 * University: PSU
-* Courses:
-      * fitness coach/mentor
-
-
+* Courses: fitness coach/mentor; massage therapist
+***
+### English  
+A2(pre-intermediate)
+***

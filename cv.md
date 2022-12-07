@@ -9,3 +9,15 @@
 ***
 ### About Me    
 Junior Frontend Developer
+***
+### Skils  
+* HTML
+* CSS
+* JS(Basic)
+* GIT
+***
+### Education  
+* University: PSU
+* Courses:
+ * fitness coach/mentor
+ * massage therapist

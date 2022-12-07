@@ -3,9 +3,9 @@
 ## Junior Frontend Developer
 ***
 ### Contact information:
-* Lokation : Belarus
-* Email: saints2012n007@gmail.com ; saintsN72012@yandex.by
-* GitHube: [https://github.com/AlexanderShcedrov](AlexanderShcedrov)
+* ***Lokation:*** Belarus
+* ***Email:*** saints2012n007@gmail.com ; saintsN72012@yandex.by
+* ***GitHube:*** [https://github.com/AlexanderShcedrov](AlexanderShcedrov)
 ***
 ### About Me    
 Junior Frontend Developer
@@ -16,7 +16,7 @@ Junior Frontend Developer
 * JS(Basic)
 * GIT
 ***
-### Skils
+### Skills
 ```
 function sum(a, b) {
   return a + b;
@@ -27,8 +27,8 @@ alert( result );
 ```
 ***
 ### Education  
-* University: PSU
-* Courses:
+* ***University:*** PSU
+* ***Courses:***
   * Fitness coach/mentor
   * Massage
 ***

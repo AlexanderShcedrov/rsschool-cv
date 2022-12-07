@@ -28,12 +28,10 @@ alert( result );
 ***
 ### Education  
 * University: PSU
-* Courses: fitness coach/mentor; massage therapist
+* Courses:
+  * Fitness coach/mentor
+  * Massage
 ***
 ### English  
 A2(pre-intermediate)
 ***
-# Education
-* PSU
-* Curses
-  * Coach

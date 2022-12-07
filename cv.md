@@ -1,4 +1,4 @@
 # AlexanderShcedrov
-====
+***
 ## Junior Frontend Developer
-====
+***

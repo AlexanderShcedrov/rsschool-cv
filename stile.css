@@ -75,9 +75,21 @@ body {
 /*==================================*/
 /*ОФОРМЛЯЕМ MAIN*/
 .main {
-   
+  
+}
+.section-left{
+    float: left;
+    width: 30%;
+    min-height: 800px;
+    background-color: #4d4d4d;;
+}
+.section-right {
+    float: right;
+    width: 70%;
+    min-height: 800px;
+background-color: white;
 }
 
+}
 .footer {
-   
 }
